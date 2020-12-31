@@ -3,6 +3,7 @@
  * See accompanying documents for a description of how Elevens is played.
  */
 public class ElevensGUIRunner {
+	// The cards file is neccessary to see the output
 
 	/**
 	 * Plays the GUI version of Elevens.
